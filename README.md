@@ -1,8 +1,3 @@
-# React + Vite
+ABOUT THE APPLICATION:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I led the development of a responsive college or university website using React JS, implementing modern web development practices. Notable features of the application include smooth scrolling functionality, dynamic slider integration, and a fully operational contact form. Leveraging React libraries and custom components, I ensured seamless navigation and user engagement across various devices. Additionally, I configured the contact form to facilitate direct email notifications, streamlining communication channels and enhancing user interaction. This project underscores my proficiency in React JS and my commitment to delivering robust, user-centric web solutions.
